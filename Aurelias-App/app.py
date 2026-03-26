@@ -15,12 +15,12 @@ PASTELERIA_INFO = {
 }
 
 PRECIOS_TAMANOS = {
-    'Molde 14': "S/ 55-50", 'Molde 24': "S/ 85-80", 'Número 30': "S/ 140-135",
+    'Molde 18': "S/ 55-50", 'Molde 24': "S/ 85-80", 'Número 30': "S/ 140-135",
     '#20x30': "S/ 95-90", '25x35': "S/ 150", '30x40': "S/ 185-180"
 }
 
 VALORES_PRECIOS = {
-    'Molde 14': 55, 'Molde 24': 85, 'Número 30': 140,
+    'Molde 18': 55, 'Molde 24': 85, 'Número 30': 140,
     '#20x30': 95, '25x35': 150, '30x40': 185
 }
 
